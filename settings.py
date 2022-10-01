@@ -1,14 +1,14 @@
-Auto_SET_Username = 'yes' #Value must be in yes or no
+Auto_SET_Username = 'no' #Value must be in yes or no
 
-Auto_Password_set = 'yes' #Value must be in yes or no
+Auto_Password_set = 'no' #Value must be in yes or no
 
-Password = 'Your Pass' # Type the Passward which you want to set.
+Password = '' # Type the Passward which you want to set.
 
 Auto_Remove_InvalidNUmber = 'yes' #Value must be in yes or no
 
 Auto_Remove_BanNUmber = 'yes' #Value must be in yes or no
 
-Auto_Remove_SpamNUmber = 'yes' #Value must be in yes or no
+Auto_Remove_SpamNUmber = 'no' #Value must be in yes or no
 
 Scrap_ALl_Members = 'yes' #Value Must Be In yes or no
 
